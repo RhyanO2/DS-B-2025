@@ -80,5 +80,5 @@ documentado?
 5. Como a padronização e boas práticas de projeto facilitam a manutenção e
 escalabilidade de sistemas?
 
-> Tornam o código mais modular e compreensível
+> Tornam o código mais modular e compreensível.
 
